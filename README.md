@@ -21,7 +21,7 @@ The student, on their own, is able to:
  -  Create variables and methods on a given specification
  -  Use conditions and loops:
      -  [Filtering](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/Filtering.java)
-     -  [Finding elements or index](https://github.com/greenfox-                                  academy/LaszloPapp/blob/master/FinalList/src/FindingElementsOrIndex.java)
+     -  [Finding elements or index](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/FindingElementsOrIndex.java)
      -  Generating lists
      -  Checking mutiple values and counting
      -  Maping values
