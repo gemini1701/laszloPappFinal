@@ -24,7 +24,7 @@ The student, on their own, is able to:
      -  [Finding elements or index](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/FindingElementsOrIndex.java)
      -  [Generating lists](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/GeneratingLists.java)
      -  Checking mutiple values and counting
-     -  Maping values
+     -  [Maping values](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/MappingValues.java)
  -  Use object orientation:
      -  Create and inherit classes including fields and methods on a given specification
      -  Understanding the difference between classes and objects
