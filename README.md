@@ -22,7 +22,7 @@ The student, on their own, is able to:
  -  Use conditions and loops:
      -  [Filtering](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/Filtering.java)
      -  [Finding elements or index](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/FindingElementsOrIndex.java)
-     -  Generating lists
+     -  [Generating lists](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/GeneratingLists.java)
      -  Checking mutiple values and counting
      -  Maping values
  -  Use object orientation:
