@@ -34,7 +34,7 @@ The student, on their own, is able to:
  -  Handle errors and exceptions
  -  Determine the output of expressions
  -  Explain their own code
- -  Write unit tests for functions and methods
+ -  [Write unit tests for functions and methods](https://github.com/greenfox-academy/huli-review-helper-backend/blob/testupdate/src/test/java/com/devilline/heartbeat/HeartbeatApplicationTests.java)
  
  # Backend Orientation Exam Competencies
 
@@ -110,7 +110,7 @@ The student, on their own, is able to:
 ## Endpoint tests
 
 - able to make difference between unit test and integration test
-- create endpoint test
+- [create endpoint test](https://github.com/greenfox-academy/huli-review-helper-backend/blob/testupdate/src/test/java/com/devilline/heartbeat/HeartbeatApplicationTests.java)
   - with the help of a mock server
   
   
