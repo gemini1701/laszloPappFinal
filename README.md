@@ -31,7 +31,7 @@ The student, on their own, is able to:
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
      -  Understanding "this" keyword
- -  Handle errors and exceptions
+ -  [Handle errors and exceptions](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/BookshelfSpringProject/src/main/java/com/greenfoxacademy/bibliotheca/controller/BookController.java)
  -  Determine the output of expressions
  -  Explain their own code
  -  [Write unit tests for functions and methods](https://github.com/greenfox-academy/huli-review-helper-backend/blob/testupdate/src/test/java/com/devilline/heartbeat/HeartbeatApplicationTests.java)
