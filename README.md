@@ -26,7 +26,8 @@ The student, on their own, is able to:
      -  Checking mutiple values and counting
      -  [Maping values](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/MappingValues.java)
  -  Use object orientation:
-     -  Create and inherit classes including fields and methods on a given specification
+     -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/GardenProject/src/Plant/Plant.java)
+     -  [Subclasses](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/GardenProject/src/Flowers.java)
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
      -  Understanding "this" keyword
