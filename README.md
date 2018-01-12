@@ -17,7 +17,7 @@
      -  [Filtering](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/Filtering.java)
      -  [Finding elements or index](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/FindingElementsOrIndex.java)
      -  [Generating lists](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/GeneratingLists.java)
-     -  Checking mutiple values and counting
+     -  [Checking multiple values and counting](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/CheckingMultipleValuesAndCounting.java)
      -  [Maping values](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/src/MappingValues.java)
  -  Use object orientation:
      -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/LaszloPapp/blob/master/FinalList/GardenProject/src/Plant/Plant.java)
