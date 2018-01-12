@@ -110,11 +110,6 @@
   
   # Final exam requirements
 
-## Accomplishments
-
- -  Significant contribution to the team project
- -  High understanding of project structure
-
 ## Skills
 
 ### Common
