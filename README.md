@@ -2,13 +2,7 @@
 
 # Foundation requirements
 
-## Accomplishments
-
- -  Multiple daily commits on the latest week
-
 ## Skills
-
-The student, on their own, is able to:
 
  -  Use the command line:
      -  Traversing directories
@@ -125,7 +119,6 @@ The student, on their own, is able to:
 
 ### Common
 
-The student, on their own, is able to:
  -  Use git:
      -  Resolving a simple merge conflict
      -  Creating a pull request
@@ -141,9 +134,6 @@ The student, on their own, is able to:
  -  Using design patterns
  -  Integration testing
  -  Differentiate between backend and frontend (client) functionality
-
-
-**Choose one from below:**
 
 ### Backend
 
