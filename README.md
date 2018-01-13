@@ -64,7 +64,7 @@
 - able to create examples for competencies of web backend
 - using a templating system e.g. Thymeleaf/Razor Pages
 - able to use the framework's special Dependency Injection system
-- usage of the framework's IoC container
+- usage of the framework's IoC container(Spring Framework Inversion of Control)
 - able to alter basic configurations
 - understanding the flow of HTTP
 
